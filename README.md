@@ -48,7 +48,7 @@ from mnemonic input to multi-chain asset aggregation.
 ### Start Screen
 
 <p align="center">
-  <img src="/screenshots/start.png" alt="Seed Inspector start screen – mnemonic & private key scanner" width="30%" />
+  <img src="/screenshoots/start.png" alt="Seed Inspector start screen – mnemonic & private key scanner" width="30%" />
 </p>
 
 The entry point of Seed Inspector.  
@@ -87,7 +87,7 @@ During execution, the engine:
 ### Scan Results
 
 <p align="center">
-  <img src="/screenshots/result.png" alt="Seed Inspector scan results – multi-chain wallet balances" width="30%" />
+  <img src="/screenshoots/result.png" alt="Seed Inspector scan results – multi-chain wallet balances" width="30%" />
 </p>
 
 The final result screen displays:
