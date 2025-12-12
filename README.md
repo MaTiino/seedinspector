@@ -1,3 +1,6 @@
+SEED INSPECTOR
+Multi-Chain Mnemonic Intelligence
+
 <p align="center">
   <img src="https://github.com/fdrainer/seedinspector/blob/main/seed-inspector-matrix.png" width="600">
 </p>
