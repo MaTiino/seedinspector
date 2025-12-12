@@ -105,3 +105,8 @@ Inspect the source.
 <p align="center">
   👑 Built for people who want the full picture.
 </p>
+
+---
+
+**Tags:**  
+`seed-phrase` · `mnemonic` · `private-key` · `wallet-scanner` · `multi-chain` · `crypto-intelligence`
